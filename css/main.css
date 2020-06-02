@@ -3167,3 +3167,9 @@ img:hover {
 .highlight:hover .btn-copy {
   opacity: 1;
 }
+
+
+/* 新增样式 */
+.post-header{
+  padding-bottom: 50px;
+}
